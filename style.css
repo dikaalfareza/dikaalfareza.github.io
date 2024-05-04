@@ -19,11 +19,11 @@ footer {
 .btn-primary,
 .btn-primary:focus,
 .btn-primary:active {
-  background-color: #7f27ff;
-  border: #7f27ff;
+  background-color: #7f27ff !important;
+  border: #7f27ff !important;
 }
 
 .btn-primary:hover {
-  background-color: #511ca1;
-  border: #511ca1;
+  background-color: #511ca1 !important;
+  border: #511ca1 !important;
 }
